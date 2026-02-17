@@ -18,3 +18,12 @@ The included `diagnostics.py` script allows engineering teams to correlate their
 Formal notification regarding this $353M annual operational risk was submitted to Alphabet Investor Relations on Feb 16, 2026. This data is shared to provide a technical bridge for stabilizing asset performance and reclaiming lost margins.
 
 **Verified by SDAG Protocol.**
+---
+## Technical Peer Review
+This diagnostic framework is open for technical verification by the engineering community. Given the implications for large-scale TPU infrastructure, we invite insights from key architects of these systems:
+
+* **Engineering Inquiry:** @jeffdean (Infrastructure/Systems)
+* **Scaling Theory:** @quocle (Architecture/GNS)
+* **Research Alignment:** @oriolvinyals (DeepMind Research)
+
+*Reference: SDAG Audit Case #0-4097000039253*
