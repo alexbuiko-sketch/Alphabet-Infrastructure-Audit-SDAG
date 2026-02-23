@@ -1,21 +1,15 @@
-MIT License
+# SDAG Dual License (Research & Commercial)
 
-Copyright (c) 2026 alexbuiko-sketch
+Copyright (c) 2026 alexbuiko-sketch. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. PERSONAL AND RESEARCH USE
+Permission is hereby granted, free of charge, to individuals and non-profit organizations for personal, educational, or non-commercial research purposes, provided that the above copyright notice remains intact.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. COMMERCIAL USE (FOR ENTITIES OVER $1B MARKET CAP)
+Any use of this software, its logic, or findings within the infrastructure of commercial entities with a market capitalization exceeding $1B USD (including but not limited to Google/Alphabet Inc.) is STRICTLY PROHIBITED without a prior written Commercial Evaluation License or IP Acquisition Agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 3. NOTICE TO EXISTING CLONERS
+All clones and copies obtained prior to this license update (Feb 23, 2026) by commercial entities must be registered for a retroactive evaluation license within 72 hours. Continued internal use without registration constitutes a violation of Intellectual Property rights.
+
+## 4. LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. FOR INQUIRIES REGARDING COMMERCIAL LICENSING OR FULL IP TRANSFER (7-FIGURE SETTLEMENT), CONTACT THE AUTHOR DIRECTLY.
